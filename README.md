@@ -1,3 +1,3 @@
-# Сlustering movies plots with sklearn
+# Сlustering movies with scikit-learn
 
 Work is not not complited
